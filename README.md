@@ -1,6 +1,6 @@
 # Flutter Adventure App LoginScreen!
 
-This repository contains an awesome user interface of a  login screen implemented by me using **[FLUTTER](https://flutter.io/)** and which is design by [Kadu Szili](https://dribbble.com/udak) a dribble designer.
+This repository contains an awesome user interface of a  login screen implemented by me using **[FLUTTER](https://flutter.io/)** and which is design by [Kadu Szili](https://dribbble.com/shots/5955739-Login-screen/attachments) a dribble designer.
 Below I am attaching the output which you will get once you run this repo.
 
 ## Output
